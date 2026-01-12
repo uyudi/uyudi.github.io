@@ -1,0 +1,8 @@
+Origin: YHX Source
+Label: YHX Repo
+Suite: stable
+Version: 1.0
+Codename: yhx-core
+Architectures: iphoneos-arm
+Components: main
+Description: YHX.CH - Metal & Water Energy Source
