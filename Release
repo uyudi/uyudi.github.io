@@ -2,7 +2,13 @@ Origin: YHX Source
 Label: YHX Repo
 Suite: stable
 Version: 1.0
-Codename: yhx-core
-Architectures: iphoneos-arm
+Codename: yhx
+Architectures: iphoneos-arm iphoneos-arm64
 Components: main
 Description: YHX.CH - Metal & Water Energy Source
+MD5Sum:
+ e2699535361e653c76a3a719b1f50e27 1503 Packages
+ ba86895f007fc7cc1f5d9d21bb247d15 897 Packages.bz2
+SHA256:
+ ae9e61514c55139ae92424d9031187f6dac47982650341be1c3f039f988b8a87 1503 Packages
+ 18bb8a215b9050225ecdd776f2822966257944862186e30f6acaafa7e556c465 897 Packages.bz2
