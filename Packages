@@ -28,9 +28,9 @@ Architecture: iphoneos-arm
 Maintainer: YHX
 Filename: debs/com.yhx.test_1.0_iphoneos-arm.deb
 Size: 720
-MD5sum: b90c0619c7b5d69d22cf66f4a6d09672
-SHA1: 8e3ff43bc7444316caa77d261913377e50596685
-SHA256: c2cfdc2be69f9730e55f8294badc2f2c44076a2cdf09f4f59bc220942059c53a
+MD5sum: a719ccf2b6035079c6647873ddbf04bc
+SHA1: 978ac7ed92561ced9ed7bb01de4198ef1cf997c1
+SHA256: adf60c2e4eb3e10ff24dc2228794dfa3a2b879cbfd062e4570b5a0ced9daed63
 Section: System
 Description: This is a test package from yhx.ch to verify the repo.
 Author: YHX
