@@ -1,3 +1,18 @@
+Package: application
+Version: 0.0.1-106+debug
+Architecture: iphoneos-arm64
+Maintainer: application
+Installed-Size: 184
+Filename: debs/application_0.0.1-106+debug_iphoneos-arm64.deb
+Size: 13630
+MD5sum: 785351e1d6890745e65abfe36440086e
+SHA1: a70d9b9beb00f7e4bf9040c0518f25a2ce9524fd
+SHA256: 2ccbfd68248131bb71ea3433445695afea13734be7c5d14b85a54620690c9c7d
+Section: Utilities
+Description: An awesome application!
+Author: application
+Name: application
+
 Package: chaoge.jbdev
 Version: 1.0-335+debug
 Architecture: iphoneos-arm64
@@ -57,6 +72,22 @@ Depiction: https://rpetri.ch/cydia/flipswitch/beta/
 Dev: flipswitch
 Icon: file:///Applications/Preferences.app/icon-table.png
 Name: Flipswitch
+
+Package: com.mj.test
+Version: 0.0.1-156+debug
+Architecture: iphoneos-arm64
+Maintainer: mj
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.mj.test_0.0.1-156+debug_iphoneos-arm64.deb
+Size: 8044
+MD5sum: 75369946259dbc7b91e737e9de7dbbd7
+SHA1: 615989acda128dbc57efac2318ea0fa885610be6
+SHA256: 66347d3a22e97509dd79eecc3026b249cc90524652d410f6de2a07d993f67702
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: mj
+Name: test
 
 Package: com.rpetrich.rocketbootstrap
 Version: 0.0.1-114+debug
