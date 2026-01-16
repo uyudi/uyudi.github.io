@@ -1,4 +1,22 @@
 Package: chaoge.jbdev
+Version: 1.0-335+debug
+Architecture: iphoneos-arm64
+Maintainer: chaoge
+Installed-Size: 22312
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/chaoge.jbdev_1.0_iphoneos-arm64.deb
+Size: 1309578
+MD5sum: a502ed56cac1d0a860e952fb10162a22
+SHA1: b2dda6a04c3ae55e6243adbef66aa984c515f5c7
+SHA256: c067200e87ab35b9bf69c3072ccc16c6cb1719f88143a5babcd44839a0a9b0c9
+Section: Tweaks
+Description: Jailbreak development tool for XCode
+Author: chaoge
+Depiction: Jailbreak development tool for XCode
+Name: JBDev
+Sileodepiction: Jailbreak development tool for XCode
+
+Package: chaoge.jbdev
 Version: 1.0-337+debug
 Architecture: iphoneos-arm64e
 Maintainer: chaoge

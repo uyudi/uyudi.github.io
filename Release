@@ -3,12 +3,18 @@ Label: YHX Repo
 Suite: stable
 Version: 1.0
 Codename: yhx
-Architectures: iphoneos-arm iphoneos-arm64
+Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
 Components: main
 Description: YHX.CH - Metal & Water Energy Source
 MD5Sum:
- 44e1bbd01ec8fd8e1523f88da05fc844 1664 Packages
- fe68ffce0f86565176e2cd42eab28ab2 932 Packages.bz2
+ bd7004e2449f5c447a43c197005a8e50 2239 Packages
+ a487ebc1c6b74a43421fc8aca2e81c5e 1078 Packages.bz2
+ c89d4004c072d2e24208ea95c1e44225 927 Packages.gz
+SHA1:
+ 38a304036ccd187ea9e8d59fd2a0d56ee26a2d84 2239 Packages
+ 002b773530d1663cab54c9cb9f74f12bbe821870 1078 Packages.bz2
+ 49e5d3606d8836b6b46ce7b38c2580c6c2670abc 927 Packages.gz
 SHA256:
- 356c7c3374ad9f1193ac8db816db91408be53f2344b9bbe692e0587cda1eefc0 1664 Packages
- 5b6ce755ee54057d72cb2a31dd27ccb50fc37e233cad1f660972ee4753d27ac3 932 Packages.bz2
+ c3b113cd20f4261f71f08ac25a3513f3fb79d577449b4779890c5ec230e81edd 2239 Packages
+ d410043c59b834bae2a458710211532269e345908c140c6630213a893b97cdf9 1078 Packages.bz2
+ c1d0132c2aca5010797f9e244a5c424b2c558ff0e5dc110769b287d790ca8093 927 Packages.gz
