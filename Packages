@@ -1,3 +1,21 @@
+Package: chaoge.jbdev
+Version: 1.0-337+debug
+Architecture: iphoneos-arm64e
+Maintainer: chaoge
+Installed-Size: 22316
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/chaoge.jbdev_1.0_iphoneos-arm64e.deb
+Size: 1310200
+MD5sum: ea92d2ae58cd018b1de92adc02f345ef
+SHA1: e76a49ffa0533152ea55edd09c6a54b39318afad
+SHA256: 65843c26fcc34bd7891c9f655f8de125b1d06b90eef0d4cc1a5ce65e0c94f8ff
+Section: Tweaks
+Description: Jailbreak development tool for XCode
+Author: chaoge
+Depiction: Jailbreak development tool for XCode
+Name: JBDev
+Sileodepiction: Jailbreak development tool for XCode
+
 Package: com.a3tweaks.flipswitch
 Version: 1.0.16~beta7-62+debug
 Architecture: iphoneos-arm64
@@ -21,18 +39,4 @@ Depiction: https://rpetri.ch/cydia/flipswitch/beta/
 Dev: flipswitch
 Icon: file:///Applications/Preferences.app/icon-table.png
 Name: Flipswitch
-
-Package: com.yhx.test
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: YHX
-Filename: debs/com.yhx.test_1.0_iphoneos-arm.deb
-Size: 720
-MD5sum: a719ccf2b6035079c6647873ddbf04bc
-SHA1: 978ac7ed92561ced9ed7bb01de4198ef1cf997c1
-SHA256: adf60c2e4eb3e10ff24dc2228794dfa3a2b879cbfd062e4570b5a0ced9daed63
-Section: System
-Description: This is a test package from yhx.ch to verify the repo.
-Author: YHX
-Name: YHX Test Tweak
 
