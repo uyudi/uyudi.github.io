@@ -58,3 +58,19 @@ Dev: flipswitch
 Icon: file:///Applications/Preferences.app/icon-table.png
 Name: Flipswitch
 
+Package: com.rpetrich.rocketbootstrap
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: Ryan Petrich <rpetrich+rocketbootstrap@gmail.com>
+Installed-Size: 620
+Filename: debs/com.rpetrich.rocketbootstrap_0.0.1_iphoneos-arm64.deb
+Size: 19224
+MD5sum: be2798f7f9eb97acc249040b15794f17
+SHA1: 875a5506867e5520791f670626d54518da9fc81a
+SHA256: 2fe05ff2939f3133468146ae4d46d52bbd6d4e1f47d04426a497282d3a098960
+Section: System
+Description: Mach lookup support library for inter-process communication
+Tag: role::hacker
+Author: Ryan Petrich <rpetrich+rocketbootstrap@gmail.com>
+Name: RocketBootStrap
+
