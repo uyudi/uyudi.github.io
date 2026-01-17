@@ -105,3 +105,19 @@ Tag: role::hacker
 Author: Ryan Petrich <rpetrich+rocketbootstrap@gmail.com>
 Name: RocketBootStrap
 
+Package: preferenceloaderfix
+Version: 0.0.1-16+debug
+Architecture: iphoneos-arm64
+Maintainer: wyd
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/preferenceloaderfix_0.0.1-16+debug_iphoneos-arm64.deb
+Size: 4460
+MD5sum: 2ccc2666cac39055fffee8acb15666dc
+SHA1: d22b31ec33f174e7894ef86a68a2f7d8cca2080b
+SHA256: 66434c268e1e82ec0cd9097e5d7c4755e1e799e9ce2ff3c10db057c0ed174f4a
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: wyd
+Name: PreferenceLoaderFix
+
