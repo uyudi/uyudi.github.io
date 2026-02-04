@@ -89,6 +89,24 @@ Description: An awesome MobileSubstrate tweak!
 Author: mj
 Name: test
 
+Package: com.opa334.altlist
+Version: 1.0.11-6+debug
+Architecture: iphoneos-arm64
+Maintainer: opa334
+Installed-Size: 688
+Depends: firmware (>=7.0)
+Filename: debs/com.opa334.altlist_1.0.11-6+debug_iphoneos-arm64.deb
+Size: 46574
+MD5sum: 40703823f65e6583279bf074156b6f30
+SHA1: f8525a16b142575d8af742ad75952f2b9214ea6b
+SHA256: 54d9cdce9807ecf052e6f253b8847d0ff33d9f12cbd650299907b5b384040b44
+Section: System
+Description: A modern AppList alternative
+Tag: role::developer
+Author: opa334
+Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=altlistDp
+Name: AltList
+
 Package: com.rpetrich.rocketbootstrap
 Version: 0.0.1-113+debug
 Architecture: iphoneos-arm64
