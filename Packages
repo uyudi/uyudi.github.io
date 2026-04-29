@@ -1,0 +1,21 @@
+Package: com.creaturecoding.tranquil
+Version: 1.0.4
+Architecture: iphoneos-arm64
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Installed-Size: 2396
+Depends: mobilesubstrate, com.opa334.ccsupport
+Filename: debs/com.creaturecoding.tranquil_1.0.4_iphoneos-arm64.deb
+Size: 1702970
+MD5sum: 3318150bce2e2d27151a43abb0b85330
+SHA1: 9814b9de2c1702b50145af8aaf5b5d5cccbce77f
+SHA256: 982a0b834b2af6009f380faecc65b1fd010a14110a082e1e11b40a250193f2df
+Section: Control Center (Modules)
+Homepage: https://creaturecoding.com/
+Description: Background sounds feature from iOS 15 on iOS 11+
+Tag: purpose::extension, compatible_min::ios11
+Author: CreatureSurvive <support@creaturecoding.com>
+Depiction: https://creaturecoding.com/?page=depiction&id=tranquil
+Icon: file:///Library/ControlCenter/Bundles/Tranquil.bundle/AppIcon-large.png
+Name: Tranquil
+Sileodepiction: https://creaturecoding.com/sileo/depiction/?package_id=tranquil
+
