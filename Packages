@@ -123,6 +123,28 @@ Tag: role::hacker
 Author: Ryan Petrich <rpetrich+rocketbootstrap@gmail.com>
 Name: RocketBootStrap
 
+Package: libactivator
+Version: 1.9.13-435+debug
+Architecture: iphoneos-arm64
+Maintainer: Ryan Petrich <rpetrich+activator@gmail.com>
+Installed-Size: 6688
+Depends: mobilesubstrate (>= 0.9.5101)
+Filename: debs/libactivator_1.9.13-435+debug_iphoneos-arm64.deb
+Size: 742392
+MD5sum: cfb79fa3ebdac341b5dfa1096b8b917d
+SHA1: a4557cd1109b9956db874bbf5ea82acafbcd121d
+SHA256: b844a371dbb69d164804dcd2134adaa2abe98f89b1d108c499c5876a09e4f215
+Section: System
+Priority: optional
+Homepage: https://rpetri.ch/cydia/activator/beta/
+Description: Centralized gestures, button and shortcut management for iOS
+Author: Ryan Petrich <rpetrich+activator@gmail.com>
+Depiction: https://rpetri.ch/cydia/activator/beta/
+Dev: rpetrich
+Icon: file:///Applications/Activator.app/Icon-Small-modern@2x.png
+Name: Activator
+Sponsor: thebigboss.org <http://thebigboss.org>
+
 Package: preferenceloaderfix
 Version: 0.0.1-16+debug
 Architecture: iphoneos-arm64
