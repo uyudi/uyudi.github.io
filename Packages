@@ -121,6 +121,30 @@ Dev: flipswitch
 Icon: file:///Applications/Preferences.app/icon-table.png
 Name: Flipswitch
 
+Package: com.a3tweaks.flipswitch
+Version: 1.0.16~beta7-69+debug
+Architecture: iphoneos-arm64
+Maintainer: rpetrich & a3tweaks <rpetrich+flipswitch@gmail.com>
+Installed-Size: 2080
+Depends: mobilesubstrate (>= 0.9.5001)
+Conflicts: com.rpetrich.donotdisturbtoggle (<= 1.0-1), com.jerryen.rotationlockflipswitch
+Replaces: com.jerryen.rotationlockflipswitch, tw.garynil.ccfixer93, tw.hiraku.nightshift
+Provides: com.jerryen.rotationlockflipswitch, tw.garynil.ccfixer93, tw.hiraku.nightshift
+Filename: debs/com.a3tweaks.flipswitch_1.0.16~beta7-69+debug_iphoneos-arm64.deb
+Size: 204302
+MD5sum: 20d109ccf7610ad53a9567b45ef5370d
+SHA1: 7d3ed8688e19733487fcced8572fad721d2bce2a
+SHA256: dd1c907df73e217ed48cedb8e33e7cd61e3a7f1dc5fca5d1b375f9be533fe644
+Section: System
+Homepage: https://rpetri.ch/cydia/flipswitch/beta/
+Description: Centralized toggle system for iOS
+Tag: purpose::extension, role::developer
+Author: rpetrich <rpetrich+flipswitch@gmail.com>
+Depiction: https://rpetri.ch/cydia/flipswitch/beta/
+Dev: flipswitch
+Icon: file:///Applications/Preferences.app/icon-table.png
+Name: Flipswitch
+
 Package: com.mj.test
 Version: 0.0.1-156+debug
 Architecture: iphoneos-arm64
