@@ -124,16 +124,16 @@ Author: Ryan Petrich <rpetrich+rocketbootstrap@gmail.com>
 Name: RocketBootStrap
 
 Package: libactivator
-Version: 1.9.13-430+debug
+Version: 1.9.13-431+debug
 Architecture: iphoneos-arm64
 Maintainer: Ryan Petrich <rpetrich+activator@gmail.com>
-Installed-Size: 6688
+Installed-Size: 7664
 Depends: mobilesubstrate (>= 0.9.5101)
-Filename: debs/libactivator_1.9.13-430+debug_iphoneos-arm64.deb
-Size: 743066
-MD5sum: 0068f795f80cf67d530d63af3b49cfd2
-SHA1: 794324749ffff205323d928bd97e7e120ee1d120
-SHA256: 91910de4ad3a8a4ac7e58d6608fee79cff4bc5ccb4e8f3f40843ba945c4cdb93
+Filename: debs/libactivator_1.9.13-431+debug_iphoneos-arm64.deb
+Size: 1034694
+MD5sum: 9821b9613849f5e5b0e2ab4332fb4880
+SHA1: 1316bfcded0fc694c090d302fd14b5255884a4d1
+SHA256: e8ea3f548d13e95f87aacb5a96482ed5e1aff23cea293a2d11562ea9021bea1c
 Section: System
 Priority: optional
 Homepage: https://rpetri.ch/cydia/activator/beta/
