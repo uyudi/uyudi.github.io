@@ -43,3 +43,19 @@ Icon: file:///Library/ControlCenter/Bundles/Tranquil.bundle/AppIcon-large.png
 Name: Tranquil
 Sileodepiction: https://creaturecoding.com/sileo/depiction/?package_id=tranquil
 
+Package: com.yhx.superkeycommand
+Version: 0.0.1-54+debug
+Architecture: iphoneos-arm64
+Maintainer: yhx
+Installed-Size: 1652
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.yhx.superkeycommand_0.0.1-54+debug_iphoneos-arm64.deb
+Size: 758462
+MD5sum: 2623dd64eee599c36440d582afbb9e42
+SHA1: 21dde8ccf1703bb764aa21a10f5af8cb8445094b
+SHA256: 60a4a1faae82bf961cf58abd796a0aba13c6cabfa86b8ce0c8b2a0427f861755
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: yhx
+Name: SuperKeyCommand
+
